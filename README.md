@@ -5,6 +5,7 @@
 
 UX-UI Designer wanted!
 Guys, we have a interesting and existing project with SAP! 
+Coding for SAP: Mobile Applications needed!
 https://app.ekipa.de/challenges/sap/brief
 
 They are searching for innovative minds who will revolutionize their enterprise applications software to mobile users!
