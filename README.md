@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @joanaekipa
-- 👀 I’m interested in UX-UI Desgiern
-- 💞️ I’m looking to collaborate on the SAP-Challenge: https://app.ekipa.de/challenges/sap/brief
-- 📫 How to reach me johanna.schwarzer@ekipa.de
+- 👀 Searching for UX-UI Desgiern & Coder
+- 💞️ Exciting collaboration-project with SAP: https://app.ekipa.de/challenges/sap/brief
+- 📫 How to reach me: johanna.schwarzer@ekipa.de
 
-UX-UI Designer wanted!
-Guys, we have a interesting and existing project with SAP! 
+UX-UI Designer & Coder wanted!
+We are running an exciting innovation project with SAP! 
+
 Coding for SAP: Mobile Applications needed!
 https://app.ekipa.de/challenges/sap/brief
 
-They are searching for innovative minds who will revolutionize their enterprise applications software to mobile users!
+Searching for innovative minds who will revolutionize the SAP enterprise applications software for mobile users!
